@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="style.css">
+
+
+
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'> 
+    
+    <title>grocefood</title>
+
+</head>
+
+<body>
+    <header>
+        <div class="Nav">
+            <div><img src="D:\whatsApp img\WhatsApp Image 2022-10-21 at .jpg" alt="sdfgh" id="leftImgNav"></div>
+           
+            <div class="ImpSearch">
+                <div>
+                    <input type="text" name="text" class="search" placeholder="Search here!">
+                </div>
+                <div>
+                    <input type="submit" name="submit" class="submit" value="Search">
+                </div>
+                <div>
+                    <a href="index1.html"><input type="submit" name="submit" class="submit Log"
+                            value="Login/Sign Up"></a>
+                </div>
+            </div>
+
+            <!-- <div> <a href="index1.html"><input type="submit" value="Login" /></a></div> -->
+        </div>
+        <div><img src="D:\project item\Picture 2.png" alt="" id="offer1"></div>
+        <div id="offer"><img src="D:\project item\img\filpkart.webp" width="100%"></div>
+        <div class="Categories">
+
+            <div class="Sub-categories"> <a href="index2.html">Vegetables</a></div>
+            <div class="Sub-categories"><a href="index3.html">Fruits</a></div>
+            <div class="Sub-categories"><a href="index5.html">Dairy/meat</a></div>
+            <div class="Sub-categories"><a href="index4.html">grocery</a></div>
+            <div class="Sub-categories"><a href="spice.html">Ayurveda</a></div>
+        </div>
+        
+        <!-- <div><img src="D:\project item\img\vege3.jpg" alt=" patyam" id="offer2"></div> -->
+        <!-- <div><img src="D:\project item\Picture3.png" alt="ggg" id="offer3"></div> -->
+        <!-- <div><img src="D:\project item\img\gp2.webp" alt="gp2" id="ggg3"></div> -->
+        <div class="patyam">
+            <div><img src="D:\project item\img\t1_hp_aff_m_paytm_360_251022.webp" alt="veg" class="img1"></div>
+            <!-- <div>Onion - Rs 50/kg</div>
+                <div><input type="submit" value="Add to Cart"></div> -->
+            <div><img src="D:\project item\img\t1_hp_aff_m_kotak_360_251022.webp" alt="patyam" class="img1"></div>
+            <div><img src="D:\project item\img\t1_hp_aff_m_rbl_360_251022.webp" alt="patyam" class="img1"></div>
+            <div><img src="D:\project item\img\t1_hp_aff_m_amex_360_251022.webp" alt="patyam" class="img1"></div>
+        </div>
+         <div ><img src="D:\project item\img\vege3.jpg" alt="mix" class="Boo"></div> 
+        <div class="info">
+            <h3>grocefood – online grocery store</h3>
+            <p>Did you ever imagine that the freshest of fruits and vegetables, top quality pulses and food grains, dairy products and hundreds of branded items could be handpicked and delivered to your home, all at the click of a button? India’s first comprehensive online megastore, bigbasket.com, brings a whopping 20000+ products with more than 1000 brands, to over 4 million happy customers. From household cleaning products to beauty and makeup, bigbasket has everything you need for your daily needs. bigbasket.com is convenience personified We’ve taken away all the stress associated with shopping for daily essentials, and you can now order all your household products and even buy groceries online without travelling long distances or standing in serpentine queues. Add to this the convenience of finding all your requirements at one single source, along with great savings, and you will realize that bigbasket- India’s largest online supermarket, has revolutionized the way India shops for groceries. Online grocery shopping has never been easier. Need things fresh? Whether it’s fruits and vegetables or dairy and meat, we have this covered as well! Get fresh eggs, meat, fish and more online at your convenience. Hassle-free Home Delivery options</p>
+            <p>We deliver to 25 cities across India and maintain excellent delivery times, ensuring that all your products from groceries to snacks branded foods reach you in time.</p>
+        
+                <p>Slotted Delivery: Pick the most convenient delivery slot to have your grocery delivered. From early morning delivery for early birds, to late-night delivery for people who work the late shift, bigbasket caters to every schedule.</p>
+                <p>Slotted Delivery: Pick the most convenient delivery slot to have your grocery delivered. From early morning delivery for early birds, to late-night delivery for people who work the late shift, bigbasket caters to every schedule.</p>
+                <p>Slotted Delivery: Pick the most convenient delivery slot to have your grocery delivered. From early morning delivery for early birds, to late-night delivery for people who work the late shift, bigbasket caters to every schedule.</p>
+                
+
+                
+
+
+        
+        </div>
+        <div class="Footer">
+            <div class="FooterPart1">
+                <div>grocefood</div>
+                <div>About Us</div>
+                <div>News</div>
+                <div>Privacy Policy</div>
+                <div>Terms and condition</div>
+            </div>
+
+            <div class="FooterPart2">
+                <div>Help</div>
+                <div>FAQs</div>
+                <div>Contact Us</div>
+                <div>Vendor Contact</div>
+            </div>
+
+            <div class="FooterPart3">
+                <div><img src="Google-App-store-icon.webp" alt="Play Store"></div>
+                <div><img src="Apple-App-store-icon.png" alt="Apple Store"></div>
+            </div>
+
+            <div class="FooterPart4">
+                <div class="colorP"><i class='fa fa-instagram pink-color fa-2x'></i></div>
+                <div class="colorB"><i class='fa fa-facebook blue-color fa-2x'></i></div>
+                <div class="colorSB"><i class='fa fa-twitter Skyblue-color fa-2x'></i></div>
+                <div class="colorB"><i class='fa fa-linkedin blue-color fa-2x'></i></div>
+                <div class="colorR"><i class='fa fa-youtube red-color fa-2x'></i></div>
+                <div></div>
+            </div>
+
+
+
+        </div>
+
+    </header>
+</body>
+
+</html>
